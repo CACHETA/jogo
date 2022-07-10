@@ -1,1 +1,1 @@
-seja bem-vindo esse é um  prototipo de um jogo que criei com base no javaScript
+<h1>Jogo Desenvolvido com auxilio de um canal do Youtube</h1>
